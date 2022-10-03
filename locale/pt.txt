@@ -39,4 +39,4 @@ Image_B9E9F4EB_9178_22DC_41DD_5257744DAB1C.url = skin/Image_B9E9F4EB_9178_22DC_4
 ### Description
 
 ### Title
-tour.name = AGENCIA IW2DIGITAL  (Duplicado)
+tour.name = UNIDAVI
